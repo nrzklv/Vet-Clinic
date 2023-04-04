@@ -60,6 +60,9 @@ body {
 main {
     flex-grow: 1;
 }
+a { 
+    color: #333;
+}
 
 a,
 svg {
